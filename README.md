@@ -8,3 +8,5 @@ __2__|Краулер для газеты "Светлый путь"|Код
 __3__|Типологическая анкета об употреблении феминитивов|Код
 
 *Репозиторий за [1 курс](https://github.com/katestratulat1999/PROGRAMMING)*
+
+![](http://www.cadacademy.it/wp-content/uploads/2018/03/cadacademy_set_penne.jpeg)
