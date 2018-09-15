@@ -7,4 +7,4 @@ __1__|Игра "Виселица"|[Код](https://github.com/katestratulat1999/
 __2__|Краулер для газеты "Светлый путь"|Код
 __3__|Типологическая анкета об употреблении феминитивов|Код
 
-*Репозиторий за [1 курс]*(https://github.com/katestratulat1999/PROGRAMMING)
+*Репозиторий за [1 курс](https://github.com/katestratulat1999/PROGRAMMING)*
