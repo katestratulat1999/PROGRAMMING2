@@ -3,7 +3,7 @@ __Домашние задания по курсу "Программирован�
 
 №|Описание|Ссылка на работу
 ---|:---:|---:
-__1__|Игра "Виселица"|[Код (.ipynb) ](https://github.com/katestratulat1999/PROGRAMMING2/blob/master/hw1/hw1.ipynb) или [Код (.py)](https://github.com/katestratulat1999/PROGRAMMING2/blob/master/hw1/hw1.py)
+__1__|Игра "Виселица"|[Код (.ipynb) ](https://github.com/katestratulat1999/PROGRAMMING2/blob/master/hw1/hw1(1).ipynb) или [Код (.py)](https://github.com/katestratulat1999/PROGRAMMING2/blob/master/hw1/hw1.py)
 __2__|Краулер для газеты "Светлый путь"|
 __3__|Типологическая анкета об употреблении феминитивов|
 
