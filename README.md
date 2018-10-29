@@ -5,6 +5,7 @@ __Домашние задания по курсу "Программирован�
 ---|:---:|---:
 __1__|Игра "Виселица"|[Код (.ipynb) ](https://github.com/katestratulat1999/PROGRAMMING2/blob/master/hw1/hw1(2).ipynb) или [Код (.py)](https://github.com/katestratulat1999/PROGRAMMING2/blob/master/hw1/hw1.py)
 __2__|GitHub Users|[Код в формате .ipynb и .py + папка с текстовым документом](https://github.com/katestratulat1999/PROGRAMMING2/tree/master/hw2)
+__3__|Собираем газетный корпус|[Код](https://github.com/katestratulat1999/PROGRAMMING2/tree/master/hw2) и [обработанные файлы](https://drive.google.com/file/d/1ZHw6e4n8TmNs1edeTndjQIA1vj84T9MV/view?usp=sharing)
 
 *Репозиторий за [1 курс](https://github.com/katestratulat1999/PROGRAMMING)*
 
