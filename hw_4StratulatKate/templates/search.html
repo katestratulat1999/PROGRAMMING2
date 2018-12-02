@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <title>Поиск по результатам опросов</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+</head>
+
+<body>
+	<form action="/search">
+		<center>
+		<div class="panel panel-default">
+		<div class="panel-heading"><h2>Введите критерии поиска:</h2></div>
+		<div class="panel-body">
+			<label>Введите название города:
+			<select name="hometown">
+				{% for town in towns %}
+				<option>{{town}}</option>
+				{% endfor %}
+			</select>
+			</label><br>
+			<label>Пол опрашиваемого:</label>
+			<input type="radio" name="sex" value="мужской">Мужской
+			<input type="radio" name="sex" value="женский">Женский<br>
+			<input type="submit" value="Отправить">
+			<table>
+				{% for name, url in urls.items() %}
+				<tr><td><center><a href="{{ url }}">{{ name }}</a></center></td></tr>
+				{% endfor %}
+			</table>
+		</div>
+		</div>
+		</center>
+	</form>
+</body>
+
+</html>

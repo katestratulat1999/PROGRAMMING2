@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <title>Анкета</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+</head>
+
+<body>
+		<div class="container">
+		<div class="row">
+		<div class="col-sm-3"></div>
+		<div class="col-sm-6">
+			<center>
+			<form action="/thanks" class="form-horizontal">
+			<div class="panel panel-default">
+				<div class="panel-heading">
+					<h1>Статистический опрос.</i>
+					<h2>Ударение в слове <i>"перчит"</i>.</h2>
+				</div>
+				<div class="panel-body">
+					<div class="form-group">
+						<label for="name">Как Вас зовут?</label>
+						<input type="text" class="form-control" placeholder="Введите Ваше имя" id="name" name="name">
+					</div>
+					<div class="form-group">
+						<label for="hometown">Ваш родной город:</label>
+						<input type="text" class="form-control" placeholder="Введите Ваш родной город" id="homwtown" name="hometown">
+					</div>
+					<div class="form-group">
+						<label>Сколько Вам лет?</label><br>
+						<input type="radio" name="age" value="младше 18" checked=True>младше 18<br>
+						<input type="radio" name="age" value="18-35">от 18 до 35<br>
+						<input type="radio" name="age" value="36-55">от 36 до 55<br>
+						<input type="radio" name="age" value="старше 56">старше 55
+					</div>
+					<div class="form-group">
+						<label>Какое у Вас образование?</label><br>
+						<input type="radio" name="edu" value="неоконченное среднее" checked=True>неоконченное среднее<br>
+						<input type="radio" name="edu" value="среднее общее (11 классов)">среднее общее (11 классов)<br>
+						<input type="radio" name="edu" value="среднее профессиональное (техникум)">среднее профессиональное (техникум)<br>
+						<input type="radio" name="edu" value="неоконченное высшее">неоконченное высшее<br>
+						<input type="radio" name="edu" value="высшее">высшее<br>
+					</div>
+					<div class="form-group">
+						<label>Ваш пол:</label><br>
+						<input type="radio" name="sex" value="мужской" checked=True>Мужской
+						<input type="radio" name="sex" value="женский">Женский<br>
+					</div>
+					<div class="form-group">
+						<label>Как Вы говорите?</label><br>
+						<input type="radio" name="choise" value="пЕрчит" checked=True>пЕрчит<br>
+						<input type="radio" name="choise" value="перчИт">перчИт<br>
+					</div>
+					<input type="submit" class="btn btn-success" value="Отправить">
+				</div>
+		</div>
+		</form>
+		</center>
+		</div>
+		<div class="col-sm-3"></div>
+</body>
+
+</html>

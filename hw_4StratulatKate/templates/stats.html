@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <title>Статистика</title>
+  <meta charset="utf-8">
+  <meta http-equiv="Cache-Control" content="no-cache">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+</head>
+
+<body>
+<center>
+<div class="panel panel-default">
+	<div class="panel-heading"><h2>Статистика на основе результатов опроса.</h2></div>
+	<div class="panel-body">
+	<div class="row">
+		<div class="col-sm-6">
+			<object type="image/svg+xml" data="../static/sex.svg">
+				Your browser does not support SVG
+			</object>
+		</div>
+		<div class="col-sm-6">
+			<object type="image/svg+xml" data="../static/education.svg">
+				Your browser does not support SVG
+			</object>
+		</div>
+	</div>
+	<div class="row">
+		<div class="col-sm-6">
+			<object type="image/svg+xml" data="../static/age.svg">
+				Your browser does not support SVG
+			</object>
+		</div>
+		<div class="col-sm-6">
+			<object type="image/svg+xml" data="../static/hometown.svg">
+				Your browser does not support SVG
+			</object>
+		</div>
+	</div>
+	<table>
+		{% for name, url in urls.items() %}
+		<tr><td><center><a href="{{ url }}">{{ name }}</a></center></td></tr>
+		{% endfor %}
+	</table>
+	</div>
+</div>
+</center>
+</body>
+
+</html>
