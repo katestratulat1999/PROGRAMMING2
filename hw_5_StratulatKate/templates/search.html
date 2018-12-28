@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <title>Поисковая система</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+</head>
+
+<body>
+	<left>
+	<div class="row">
+		<div class = "col-sm-1"></div>
+		<div class = "col-sm-10">
+			<h2><b> Поиск по статьям газеты РВС </b></h2><br>
+		</div>
+		<div class = "col-sm-1"></div>
+	</div>
+	<div class="row">
+		<div class = "col-sm-1"></div>
+			<form action="/search">
+				<div class = "col-sm-6">
+					<input type="text" class="form-control" placeholder="Искать" name="txt">
+				</div>
+				<div class = "col-sm-4">
+					<input type="submit" class="btn btn-primary">
+				</div>
+				<br><br>
+			</form>
+		<div class = "col-sm-1"></div>
+	</div>
+	<div class="row">
+		<div class = "col-sm-1"></div>
+		<div class = "col-sm-10">
+			<table>
+			{% for item in urls %}
+			<tr>
+				<td>
+					<div class="well well-sm">
+					<a href="{{ item[0] }}">{{ item[1] }}</a><br>
+					<p>{{ item[2][:250]|safe }}</p>
+					</div>
+				</td>
+			</tr>
+			{% endfor %}
+			</table>
+			</left>
+		</div>
+		<div class = "col-sm-1"></div>
+	</div>
+	</left>
+</body>
+
+</html>
