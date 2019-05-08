@@ -8,6 +8,7 @@ __2__|GitHub Users|[Код в формате .ipynb и .py + папка с те�
 __3__|Собираем газетный корпус|[Код](https://github.com/katestratulat1999/PROGRAMMING2/tree/master/hw3_StratulatKate) и [файлы](https://drive.google.com/drive/folders/1qv0IGc7irdXAh57lWMJMiuDaTAdkOXfz?usp=sharing)
 __4__|Сайт-анкета|[Домашнее задание 4](https://github.com/katestratulat1999/PROGRAMMING2/tree/master/hw_4StratulatKate)
 __5__|Поисковая система для корпуса|[Домашнее задание 5](https://github.com/katestratulat1999/PROGRAMMING2/tree/master/hw_5_StratulatKate)
+__6__|VK API|[Домашнее задание 6](https://github.com/katestratulat1999/PROGRAMMING2/blob/master/hw_6_StratulatKate.rar)
 
 *Репозиторий за [1 курс](https://github.com/katestratulat1999/PROGRAMMING)*
 
