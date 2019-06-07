@@ -9,6 +9,7 @@ __3__|Собираем газетный корпус|[Код](https://github.com
 __4__|Сайт-анкета|[Домашнее задание 4](https://github.com/katestratulat1999/PROGRAMMING2/tree/master/hw_4StratulatKate)
 __5__|Поисковая система для корпуса|[Домашнее задание 5](https://github.com/katestratulat1999/PROGRAMMING2/tree/master/hw_5_StratulatKate)
 __6__|VK API|[ Домашнее задание 6](https://github.com/katestratulat1999/PROGRAMMING2/tree/master/hw_6_StratulatKate)|
+__7__|NetworkX|[ Домашнее задание 7](https://github.com/katestratulat1999/PROGRAMMING2/tree/master/hw_6_StratulatKate)|
 
 *Репозиторий за [1 курс](https://github.com/katestratulat1999/PROGRAMMING)*
 
