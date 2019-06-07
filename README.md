@@ -11,6 +11,6 @@ __5__|Поисковая система для корпуса|[Домашнее 
 __6__|VK API|[ Домашнее задание 6](https://github.com/katestratulat1999/PROGRAMMING2/tree/master/hw_6_StratulatKate)|
 __7__|NetworkX|[ Домашнее задание 7](https://github.com/katestratulat1999/PROGRAMMING2/tree/master/hw_6_StratulatKate)|
 
-*Репозиторий за [1 курс](https://github.com/katestratulat1999/PROGRAMMING)*
+*Репозиторий [1 курс](https://github.com/katestratulat1999/PROGRAMMING)*
 
 ![](http://www.cadacademy.it/wp-content/uploads/2018/03/cadacademy_set_penne.jpeg)
