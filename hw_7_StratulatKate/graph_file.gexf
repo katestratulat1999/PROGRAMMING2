@@ -1,0 +1,243 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.2" xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <meta>
+      <creator>NetworkX 2.3</creator>
+      <lastmodified>06/06/2019</lastmodified>
+    </meta>
+    <nodes>
+      <node id="кровать_S" label="кровать_S" />
+      <node id="диван_S" label="диван_S" />
+      <node id="кушетка_S" label="кушетка_S" />
+      <node id="тахта_S" label="тахта_S" />
+      <node id="диванчик_S" label="диванчик_S" />
+      <node id="кресло_S" label="кресло_S" />
+      <node id="оттоманка_S" label="оттоманка_S" />
+      <node id="постель_S" label="постель_S" />
+      <node id="стул_S" label="стул_S" />
+      <node id="топчан_S" label="топчан_S" />
+      <node id="койка_S" label="койка_S" />
+      <node id="раскладушка_S" label="раскладушка_S" />
+      <node id="кроватка_S" label="кроватка_S" />
+      <node id="постелька_S" label="постелька_S" />
+      <node id="нары_S" label="нары_S" />
+      <node id="табуретка_S" label="табуретка_S" />
+      <node id="коечка_S" label="коечка_S" />
+      <node id="скамейка_S" label="скамейка_S" />
+      <node id="колясочка_S" label="колясочка_S" />
+      <node id="цыновка_S" label="цыновка_S" />
+      <node id="ковер_S" label="ковер_S" />
+      <node id="одеяло_S" label="одеяло_S" />
+      <node id="простыня_S" label="простыня_S" />
+      <node id="простынка_S" label="простынка_S" />
+      <node id="покрывало_S" label="покрывало_S" />
+      <node id="наволочка_S" label="наволочка_S" />
+      <node id="полотенце_S" label="полотенце_S" />
+      <node id="плед_S" label="плед_S" />
+      <node id="плащ-палатка_S" label="плащ-палатка_S" />
+      <node id="брезент_S" label="брезент_S" />
+      <node id="подушка_S" label="подушка_S" />
+      <node id="матрац_S" label="матрац_S" />
+      <node id="одеяльце_S" label="одеяльце_S" />
+      <node id="шаль_S" label="шаль_S" />
+      <node id="дерюжка_S" label="дерюжка_S" />
+      <node id="плащ_S" label="плащ_S" />
+      <node id="кофта_S" label="кофта_S" />
+      <node id="коврик_S" label="коврик_S" />
+      <node id="кофточка_S" label="кофточка_S" />
+      <node id="попонка_S" label="попонка_S" />
+      <node id="мешковина_S" label="мешковина_S" />
+      <node id="перина_S" label="перина_S" />
+      <node id="матрас_S" label="матрас_S" />
+      <node id="тюфяк_S" label="тюфяк_S" />
+      <node id="накидка_S" label="накидка_S" />
+      <node id="саван_S" label="саван_S" />
+      <node id="чадра_S" label="чадра_S" />
+      <node id="косынка_S" label="косынка_S" />
+      <node id="вуаль_S" label="вуаль_S" />
+      <node id="занавеска_S" label="занавеска_S" />
+      <node id="холстина_S" label="холстина_S" />
+      <node id="скатерка_S" label="скатерка_S" />
+      <node id="тряпица_S" label="тряпица_S" />
+      <node id="тряпочка_S" label="тряпочка_S" />
+      <node id="рогожа_S" label="рогожа_S" />
+      <node id="парусина_S" label="парусина_S" />
+      <node id="дерюга_S" label="дерюга_S" />
+      <node id="кошма_S" label="кошма_S" />
+      <node id="веретье_S" label="веретье_S" />
+      <node id="шинель_S" label="шинель_S" />
+      <node id="ватник_S" label="ватник_S" />
+      <node id="тулуп_S" label="тулуп_S" />
+      <node id="телогрейка_S" label="телогрейка_S" />
+      <node id="тюфячок_S" label="тюфячок_S" />
+      <node id="циновка_S" label="циновка_S" />
+    </nodes>
+    <edges>
+      <edge id="0" source="кровать_S" target="диван_S" weight="0.8595341444015503" />
+      <edge id="1" source="кровать_S" target="кушетка_S" weight="0.8425931930541992" />
+      <edge id="2" source="кровать_S" target="постель_S" weight="0.8375556468963623" />
+      <edge id="3" source="кровать_S" target="тахта_S" weight="0.8236647844314575" />
+      <edge id="4" source="кровать_S" target="койка_S" weight="0.8134356141090393" />
+      <edge id="5" source="кровать_S" target="топчан_S" weight="0.7757791876792908" />
+      <edge id="6" source="кровать_S" target="раскладушка_S" weight="0.7254608869552612" />
+      <edge id="7" source="кровать_S" target="диванчик_S" weight="0.7121791243553162" />
+      <edge id="8" source="кровать_S" target="кроватка_S" weight="0.6935322880744934" />
+      <edge id="9" source="кровать_S" target="оттоманка_S" weight="0.6933983564376831" />
+      <edge id="10" source="кровать_S" target="подушка_S" weight="0.6054749488830566" />
+      <edge id="11" source="кровать_S" target="матрац_S" weight="0.6248867511749268" />
+      <edge id="12" source="кровать_S" target="матрас_S" weight="0.6143404245376587" />
+      <edge id="13" source="кровать_S" target="тюфяк_S" weight="0.5640040636062622" />
+      <edge id="14" source="диван_S" target="кушетка_S" weight="0.8645125031471252" />
+      <edge id="15" source="диван_S" target="тахта_S" weight="0.8395119309425354" />
+      <edge id="16" source="диван_S" target="диванчик_S" weight="0.8017493486404419" />
+      <edge id="17" source="диван_S" target="кресло_S" weight="0.8003683686256409" />
+      <edge id="18" source="диван_S" target="оттоманка_S" weight="0.7361276149749756" />
+      <edge id="19" source="диван_S" target="постель_S" weight="0.7304600477218628" />
+      <edge id="20" source="диван_S" target="стул_S" weight="0.720960259437561" />
+      <edge id="21" source="диван_S" target="топчан_S" weight="0.6924266815185547" />
+      <edge id="22" source="диван_S" target="койка_S" weight="0.6869754791259766" />
+      <edge id="23" source="диван_S" target="раскладушка_S" weight="0.6547021865844727" />
+      <edge id="24" source="диван_S" target="кроватка_S" weight="0.5560744404792786" />
+      <edge id="25" source="диван_S" target="подушка_S" weight="0.6116850972175598" />
+      <edge id="26" source="диван_S" target="матрас_S" weight="0.5662350058555603" />
+      <edge id="27" source="кушетка_S" target="тахта_S" weight="0.8059531450271606" />
+      <edge id="28" source="кушетка_S" target="постель_S" weight="0.7685774564743042" />
+      <edge id="29" source="кушетка_S" target="диванчик_S" weight="0.7499591708183289" />
+      <edge id="30" source="кушетка_S" target="койка_S" weight="0.7199019193649292" />
+      <edge id="31" source="кушетка_S" target="топчан_S" weight="0.6961761116981506" />
+      <edge id="32" source="кушетка_S" target="кресло_S" weight="0.6645227670669556" />
+      <edge id="33" source="кушетка_S" target="оттоманка_S" weight="0.6536698341369629" />
+      <edge id="34" source="кушетка_S" target="раскладушка_S" weight="0.6391438245773315" />
+      <edge id="35" source="кушетка_S" target="кроватка_S" weight="0.5754187107086182" />
+      <edge id="36" source="кушетка_S" target="подушка_S" weight="0.5896400213241577" />
+      <edge id="37" source="тахта_S" target="постель_S" weight="0.7175565958023071" />
+      <edge id="38" source="тахта_S" target="оттоманка_S" weight="0.7205977439880371" />
+      <edge id="39" source="тахта_S" target="диванчик_S" weight="0.6951492428779602" />
+      <edge id="40" source="тахта_S" target="топчан_S" weight="0.6771989464759827" />
+      <edge id="41" source="тахта_S" target="кресло_S" weight="0.6524465680122375" />
+      <edge id="42" source="тахта_S" target="койка_S" weight="0.6430318355560303" />
+      <edge id="43" source="тахта_S" target="табуретка_S" weight="0.6148016452789307" />
+      <edge id="44" source="тахта_S" target="раскладушка_S" weight="0.6105518341064453" />
+      <edge id="45" source="тахта_S" target="кроватка_S" weight="0.5662013292312622" />
+      <edge id="46" source="тахта_S" target="матрац_S" weight="0.5639492869377136" />
+      <edge id="47" source="тахта_S" target="матрас_S" weight="0.5724650025367737" />
+      <edge id="48" source="диванчик_S" target="койка_S" weight="0.6079249382019043" />
+      <edge id="49" source="диванчик_S" target="топчан_S" weight="0.6193037033081055" />
+      <edge id="50" source="диванчик_S" target="раскладушка_S" weight="0.5737009048461914" />
+      <edge id="51" source="диванчик_S" target="кресло_S" weight="0.6762470006942749" />
+      <edge id="52" source="диванчик_S" target="стул_S" weight="0.6296351552009583" />
+      <edge id="53" source="диванчик_S" target="оттоманка_S" weight="0.6049094796180725" />
+      <edge id="54" source="диванчик_S" target="скамейка_S" weight="0.5983023643493652" />
+      <edge id="55" source="кресло_S" target="оттоманка_S" weight="0.5395939946174622" />
+      <edge id="56" source="оттоманка_S" target="постель_S" weight="0.5850386619567871" />
+      <edge id="57" source="оттоманка_S" target="топчан_S" weight="0.5816977024078369" />
+      <edge id="58" source="оттоманка_S" target="цыновка_S" weight="0.5628673434257507" />
+      <edge id="59" source="оттоманка_S" target="ковер_S" weight="0.5484910607337952" />
+      <edge id="60" source="постель_S" target="койка_S" weight="0.7379044890403748" />
+      <edge id="61" source="постель_S" target="раскладушка_S" weight="0.6907793283462524" />
+      <edge id="62" source="постель_S" target="топчан_S" weight="0.6664910316467285" />
+      <edge id="63" source="постель_S" target="кроватка_S" weight="0.6335827112197876" />
+      <edge id="64" source="постель_S" target="постелька_S" weight="0.6330984830856323" />
+      <edge id="65" source="постель_S" target="нары_S" weight="0.6228107213973999" />
+      <edge id="66" source="постель_S" target="подушка_S" weight="0.5636216998100281" />
+      <edge id="67" source="постель_S" target="матрас_S" weight="0.5543768405914307" />
+      <edge id="68" source="топчан_S" target="койка_S" weight="0.6917737722396851" />
+      <edge id="69" source="топчан_S" target="нары_S" weight="0.6513317227363586" />
+      <edge id="70" source="топчан_S" target="раскладушка_S" weight="0.607593297958374" />
+      <edge id="71" source="топчан_S" target="табуретка_S" weight="0.5992713570594788" />
+      <edge id="72" source="топчан_S" target="кроватка_S" weight="0.5522714853286743" />
+      <edge id="73" source="топчан_S" target="тюфяк_S" weight="0.5442267656326294" />
+      <edge id="74" source="койка_S" target="нары_S" weight="0.7215113043785095" />
+      <edge id="75" source="койка_S" target="раскладушка_S" weight="0.6122573614120483" />
+      <edge id="76" source="койка_S" target="коечка_S" weight="0.6020504832267761" />
+      <edge id="77" source="койка_S" target="кроватка_S" weight="0.5642434358596802" />
+      <edge id="78" source="койка_S" target="матрац_S" weight="0.5862679481506348" />
+      <edge id="79" source="раскладушка_S" target="кроватка_S" weight="0.6082502603530884" />
+      <edge id="80" source="раскладушка_S" target="нары_S" weight="0.5856729745864868" />
+      <edge id="81" source="раскладушка_S" target="матрас_S" weight="0.5527075529098511" />
+      <edge id="82" source="кроватка_S" target="постелька_S" weight="0.5786554217338562" />
+      <edge id="83" source="кроватка_S" target="колясочка_S" weight="0.5586279630661011" />
+      <edge id="84" source="постелька_S" target="одеяльце_S" weight="0.5060138702392578" />
+      <edge id="85" source="цыновка_S" target="матрац_S" weight="0.5552833080291748" />
+      <edge id="86" source="одеяло_S" target="простыня_S" weight="0.7442800402641296" />
+      <edge id="87" source="одеяло_S" target="плед_S" weight="0.7310344576835632" />
+      <edge id="88" source="одеяло_S" target="одеяльце_S" weight="0.7068142890930176" />
+      <edge id="89" source="одеяло_S" target="подушка_S" weight="0.6704491376876831" />
+      <edge id="90" source="одеяло_S" target="покрывало_S" weight="0.6341648101806641" />
+      <edge id="91" source="одеяло_S" target="простынка_S" weight="0.6125023365020752" />
+      <edge id="92" source="одеяло_S" target="брезент_S" weight="0.6086662411689758" />
+      <edge id="93" source="одеяло_S" target="плащ-палатка_S" weight="0.6051442623138428" />
+      <edge id="94" source="одеяло_S" target="матрац_S" weight="0.6039854884147644" />
+      <edge id="95" source="одеяло_S" target="перина_S" weight="0.575999915599823" />
+      <edge id="96" source="одеяло_S" target="матрас_S" weight="0.5536719560623169" />
+      <edge id="97" source="одеяло_S" target="тюфяк_S" weight="0.5677812695503235" />
+      <edge id="98" source="простыня_S" target="простынка_S" weight="0.7049914598464966" />
+      <edge id="99" source="простыня_S" target="покрывало_S" weight="0.6484860181808472" />
+      <edge id="100" source="простыня_S" target="наволочка_S" weight="0.6428484320640564" />
+      <edge id="101" source="простыня_S" target="полотенце_S" weight="0.6339776515960693" />
+      <edge id="102" source="простыня_S" target="плед_S" weight="0.6200481057167053" />
+      <edge id="103" source="простыня_S" target="плащ-палатка_S" weight="0.6137595176696777" />
+      <edge id="104" source="простыня_S" target="брезент_S" weight="0.6033415794372559" />
+      <edge id="105" source="простыня_S" target="подушка_S" weight="0.6020965576171875" />
+      <edge id="106" source="простыня_S" target="матрац_S" weight="0.6015572547912598" />
+      <edge id="107" source="простыня_S" target="одеяльце_S" weight="0.5932774543762207" />
+      <edge id="108" source="простыня_S" target="тюфяк_S" weight="0.5529091358184814" />
+      <edge id="109" source="простынка_S" target="одеяльце_S" weight="0.5824651718139648" />
+      <edge id="110" source="простынка_S" target="холстина_S" weight="0.5486493110656738" />
+      <edge id="111" source="простынка_S" target="полотенце_S" weight="0.5456889867782593" />
+      <edge id="112" source="простынка_S" target="мешковина_S" weight="0.5451765656471252" />
+      <edge id="113" source="простынка_S" target="наволочка_S" weight="0.5393460988998413" />
+      <edge id="114" source="простынка_S" target="скатерка_S" weight="0.5341806411743164" />
+      <edge id="115" source="простынка_S" target="тряпица_S" weight="0.5341631174087524" />
+      <edge id="116" source="простынка_S" target="тряпочка_S" weight="0.5339112281799316" />
+      <edge id="117" source="покрывало_S" target="шаль_S" weight="0.5877351760864258" />
+      <edge id="118" source="покрывало_S" target="накидка_S" weight="0.5647215843200684" />
+      <edge id="119" source="покрывало_S" target="саван_S" weight="0.5614051818847656" />
+      <edge id="120" source="покрывало_S" target="чадра_S" weight="0.5563347339630127" />
+      <edge id="121" source="покрывало_S" target="косынка_S" weight="0.5467884540557861" />
+      <edge id="122" source="покрывало_S" target="плащ_S" weight="0.5430649518966675" />
+      <edge id="123" source="покрывало_S" target="вуаль_S" weight="0.5396547913551331" />
+      <edge id="124" source="покрывало_S" target="занавеска_S" weight="0.5303047895431519" />
+      <edge id="125" source="плед_S" target="одеяльце_S" weight="0.6381527185440063" />
+      <edge id="126" source="плед_S" target="шаль_S" weight="0.5852218866348267" />
+      <edge id="127" source="плед_S" target="плащ-палатка_S" weight="0.5532552003860474" />
+      <edge id="128" source="плед_S" target="подушка_S" weight="0.5397136211395264" />
+      <edge id="129" source="плед_S" target="дерюжка_S" weight="0.5229343175888062" />
+      <edge id="130" source="плед_S" target="матрац_S" weight="0.5223851203918457" />
+      <edge id="131" source="плед_S" target="плащ_S" weight="0.5111156702041626" />
+      <edge id="132" source="плед_S" target="брезент_S" weight="0.5097833871841431" />
+      <edge id="133" source="плащ-палатка_S" target="брезент_S" weight="0.635442316532135" />
+      <edge id="134" source="плащ-палатка_S" target="шинель_S" weight="0.5918389558792114" />
+      <edge id="135" source="плащ-палатка_S" target="ватник_S" weight="0.5443536639213562" />
+      <edge id="136" source="плащ-палатка_S" target="тулуп_S" weight="0.5335328578948975" />
+      <edge id="137" source="плащ-палатка_S" target="телогрейка_S" weight="0.5316362380981445" />
+      <edge id="138" source="плащ-палатка_S" target="дерюжка_S" weight="0.5268165469169617" />
+      <edge id="139" source="плащ-палатка_S" target="плащ_S" weight="0.5191178321838379" />
+      <edge id="140" source="брезент_S" target="рогожа_S" weight="0.6766762733459473" />
+      <edge id="141" source="брезент_S" target="парусина_S" weight="0.5641066431999207" />
+      <edge id="142" source="брезент_S" target="дерюга_S" weight="0.5388596057891846" />
+      <edge id="143" source="брезент_S" target="мешковина_S" weight="0.528033971786499" />
+      <edge id="144" source="брезент_S" target="кошма_S" weight="0.5264986157417297" />
+      <edge id="145" source="брезент_S" target="дерюжка_S" weight="0.5215319395065308" />
+      <edge id="146" source="брезент_S" target="веретье_S" weight="0.5132984519004822" />
+      <edge id="147" source="подушка_S" target="перина_S" weight="0.6538326740264893" />
+      <edge id="148" source="подушка_S" target="матрас_S" weight="0.6019068956375122" />
+      <edge id="149" source="подушка_S" target="матрац_S" weight="0.5982682704925537" />
+      <edge id="150" source="подушка_S" target="тюфяк_S" weight="0.5858882665634155" />
+      <edge id="151" source="матрац_S" target="матрас_S" weight="0.7577071189880371" />
+      <edge id="152" source="матрац_S" target="тюфяк_S" weight="0.7168914079666138" />
+      <edge id="153" source="матрац_S" target="тюфячок_S" weight="0.5962507724761963" />
+      <edge id="154" source="матрац_S" target="перина_S" weight="0.5380502939224243" />
+      <edge id="155" source="одеяльце_S" target="кофта_S" weight="0.5576959848403931" />
+      <edge id="156" source="одеяльце_S" target="коврик_S" weight="0.5216130018234253" />
+      <edge id="157" source="одеяльце_S" target="кофточка_S" weight="0.5145541429519653" />
+      <edge id="158" source="одеяльце_S" target="попонка_S" weight="0.5112682580947876" />
+      <edge id="159" source="одеяльце_S" target="мешковина_S" weight="0.5029019117355347" />
+      <edge id="160" source="перина_S" target="матрас_S" weight="0.5569053888320923" />
+      <edge id="161" source="перина_S" target="тюфяк_S" weight="0.5502935647964478" />
+      <edge id="162" source="матрас_S" target="тюфяк_S" weight="0.6640872955322266" />
+      <edge id="163" source="тюфяк_S" target="тюфячок_S" weight="0.5864200592041016" />
+      <edge id="164" source="тюфяк_S" target="циновка_S" weight="0.5290278792381287" />
+    </edges>
+  </graph>
+</gexf>
