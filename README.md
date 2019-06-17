@@ -10,7 +10,7 @@ __4__|Сайт-анкета|[Домашнее задание 4](https://github.c
 __5__|Поисковая система для корпуса|[Домашнее задание 5](https://github.com/katestratulat1999/PROGRAMMING2/tree/master/hw_5_StratulatKate)
 __6__|VK API|[ Домашнее задание 6](https://github.com/katestratulat1999/PROGRAMMING2/tree/master/hw_6_StratulatKate)|
 __7__|NetworkX|[ Домашнее задание 7 (код)](https://github.com/katestratulat1999/PROGRAMMING2/tree/master/hw_7_StratulatKate) + [Корпус (архив)](https://drive.google.com/file/d/17rKknrkt44du83RaU4FmabOn2mwttwY3/view?usp=sharing)
-__8__|Финальный проект (3 вариант)|[Код](https://github.com/katestratulat1999/PROGRAMMING2/tree/master/Project_StratulatKate) + [Корпус (архив)] (https://github.com/katestratulat1999/PROGRAMMING2/tree/master/Project_StratulatKate)
+__8__|Финальный проект (3 вариант)|[Код](https://github.com/katestratulat1999/PROGRAMMING2/tree/master/Project_StratulatKate) + [Корпус (архив)](https://drive.google.com/file/d/1wwGSNYodVsojfnq0Ux-lbJqd00NHyYAq/view?usp=sharing)
 
 *Репозиторий [1 курс](https://github.com/katestratulat1999/PROGRAMMING)*
 
