@@ -1,0 +1,32 @@
+<html>
+    <head>
+       <meta charset="utf-8">
+	   <title>ИИ vs. Остер</title>
+	   <meta charset="utf-8">
+	   <meta name="viewport" content="width=device-width, initial-scale=1">
+	   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css">
+	   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.0/jquery.min.js"></script>
+	   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/js/bootstrap.min.js"></script>
+    </head>
+    <body>
+	<div class="row">
+	<div class="col-sm-1"></div>
+	<div class="col-sm-10">
+	<div class="jumbotron"  align="center"><h1>ИИ или Остер?</h1></div>
+       <form action="">
+	   <div class="form-group" align="center">
+          <label>Угадайте, оригинальные ли строки приведены ниже:</label>
+		  <h3 align="center">{{ res|safe }}</h3>
+		</div>
+          <p align="center">
+			<input name="otvet" type="radio" value="yes" checked=1>Оригинал
+			<input name="otvet" type="radio" value="no">Подделка
+		</p>
+		  <p align="center"><button type="submit" class="btn btn-default">Ответить</button></p>
+		  <h5 align="center">Вопрос {{ qNum }} из 10</h5>
+       </form>
+	 </div>
+	 <div class="col-sm-1"></div>
+	 </div>
+     </body>
+ </html>
